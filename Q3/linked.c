@@ -14,7 +14,9 @@ void begin_delete();
 void last_delete();  
 void random_delete();  
 void display();  
-void search();  
+void search(); 
+
+ 
 void main ()  
 {  
     int choice =0;  
